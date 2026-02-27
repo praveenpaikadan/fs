@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/DWF_Verification/static/css/main.9c92ae1f.css",
-    "main.js": "/DWF_Verification/static/js/main.226711b7.js",
+    "main.js": "/DWF_Verification/static/js/main.9b387a45.js",
     "static/js/27.581a3b8f.chunk.js": "/DWF_Verification/static/js/27.581a3b8f.chunk.js",
     "index.html": "/DWF_Verification/index.html"
   },
   "entrypoints": [
     "static/css/main.9c92ae1f.css",
-    "static/js/main.226711b7.js"
+    "static/js/main.9b387a45.js"
   ]
 }
